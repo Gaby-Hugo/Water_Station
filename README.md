@@ -1,6 +1,16 @@
 # Water_Station
 My Python end-of-course project
-project:
+1. Open three terminals
+2. Run at the first Change_Data.py
+3. Run on the second Water_Server.py
+4. Finally run on the third Water_Client.py
+
+5. Add through Change_Data terminals and change the alarm status
+
+You can open additional terminals and each run a new client with Water_Client.py
+
+
+Instructions:
 Create a water station and a database server that talks to the water stations
 
 The server will allow new water stations to connect to it.
